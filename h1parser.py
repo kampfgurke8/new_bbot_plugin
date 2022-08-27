@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 import sys,re,json
-
 print("Starting the parser")
 
 def main():
